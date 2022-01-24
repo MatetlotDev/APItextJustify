@@ -25,7 +25,7 @@ express : I have used express for the server, which is easy to use and also the 
 
 ## Inspiration :
 Thanks to Michael Muinos on youtube (https://www.youtube.com/watch?v=GqXlEbFVTXY&t=538s&ab_channel=MichaelMuinos) for his video. The algorithm comes from it.
-Thanks to https://github.com/Alexmdz77/API-REST-justify for his work, a very nice job by him.
+Thanks to https://github.com/Alexmdz77/ for his work, a very nice job by him.
 
 ## Contraints : 
 - The length of each line must be 80 char max.
