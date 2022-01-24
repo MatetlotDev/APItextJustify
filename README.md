@@ -10,6 +10,7 @@ Clone the project in your folder.
 1. git clone https://github.com/MatetlotDev/APItextJustify.git
 2. cd APItextJustify
 3. npm i 
+4. if you have nodemon install -> nodemon. Otherwise npm i nodemon -g, then -> nodemon
 
 And you are good to go !
 
