@@ -1,5 +1,5 @@
 # APItextJustify
-Simply an API that takes a text as parameter and return it justified. A lot inspired from [Alexmdz77](https://github.com/Alexmdz77/), thanks to him.
+Simply an API that takes a text as parameter and return it justified. Inspired from [Alexmdz77](https://github.com/Alexmdz77/), for the use of quick.db thanks to him.
 
 ## How it works ?
 There's is three route /api/justify, /api/token, /api/users. To be able to use the /justify route you need to have a token, so first step is to run the route /api/token with a body key email. It will create a user with this email and return the token of this user. 
